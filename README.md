@@ -1,5 +1,4 @@
 
-
 ---
 
 
@@ -21,8 +20,10 @@
 ---
 
 <p dir="rtl">
-<strong>تمرين</strong> (this should be in github so just attach a github link)</p>
+<strong>تمرين</strong></p>
 
+
+**[GitHub Link](https://github.com/kuwaitcodes/gamedev-c1-cw4/)**
 
 
 
